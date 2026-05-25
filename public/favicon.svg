@@ -1,0 +1,13 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Synergy favicon">
+  <defs>
+    <linearGradient id="favBlue" x1="6" y1="6" x2="58" y2="58" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2BB6D9"/>
+      <stop offset="0.55" stop-color="#1F6FB1"/>
+      <stop offset="1" stop-color="#113D8D"/>
+    </linearGradient>
+  </defs>
+  <rect x="4" y="4" width="56" height="56" rx="14" fill="#F4F8FF"/>
+  <path d="M23.5 50C14.8 50 8.5 43.8 8.5 35.4C8.5 26.8 15 20.5 23.8 20.5C30 20.5 35.2 23.7 37.4 28.7H31.2C29.4 26.2 26.6 24.8 23.7 24.8C18 24.8 14 28.9 14 35.3C14 41.4 18.2 45.7 24 45.7C27.8 45.7 30.6 43.8 32.2 40.8H37.8C35.8 46.4 30.8 50 23.5 50Z" fill="url(#favBlue)"/>
+  <path d="M29 35.7L38 26.8L44 32.7L53 23.6" stroke="#1F79BD" stroke-width="3.8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M53 23.6L48.7 24.1L49.6 19.7L53 23.6Z" fill="#1FA9E6"/>
+</svg>

@@ -1,0 +1,29 @@
+<svg width="620" height="170" viewBox="0 0 620 170" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="logoTitle logoDesc">
+  <title id="logoTitle">Synergy ERP Dashboard</title>
+  <desc id="logoDesc">Blue gradient SE mark with upward trend arrow and Synergy ERP Dashboard text.</desc>
+  <defs>
+    <linearGradient id="brandBlue" x1="14" y1="12" x2="168" y2="160" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2BB6D9"/>
+      <stop offset="0.55" stop-color="#1F6FB1"/>
+      <stop offset="1" stop-color="#113D8D"/>
+    </linearGradient>
+    <linearGradient id="arrowBlue" x1="76" y1="70" x2="210" y2="12" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1E88C8"/>
+      <stop offset="1" stop-color="#1FA9E6"/>
+    </linearGradient>
+  </defs>
+
+  <g transform="translate(8 6)">
+    <path d="M72 138C39 138 14 114 14 82C14 50 39 26 72 26C97 26 118 39 126 59H104C97 49 86 43 72 43C50 43 34 59 34 82C34 104 50 121 72 121C88 121 100 113 106 101H127C119 122 98 138 72 138Z" fill="url(#brandBlue)"/>
+    <path d="M110 138C87 138 67 126 57 108H79C86 116 97 121 110 121C132 121 148 104 148 82C148 59 132 43 110 43C94 43 82 50 76 61H55C63 39 85 26 110 26C143 26 168 50 168 82C168 114 143 138 110 138Z" fill="url(#brandBlue)" opacity="0.9"/>
+    <path d="M55 82L89 48L112 70L145 37" stroke="url(#arrowBlue)" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M145 37L131 38L134 24L145 37Z" fill="#21A8E4"/>
+    <circle cx="33" cy="49" r="6" fill="#FFA13C"/>
+    <circle cx="169" cy="68" r="7" fill="#2BA7DC"/>
+  </g>
+
+  <g transform="translate(210 25)">
+    <text x="0" y="58" fill="#113D8D" font-size="74" font-family="Figtree, Arial, sans-serif" font-weight="700" letter-spacing="1.2">SYNERGY</text>
+    <text x="2" y="116" fill="#1B346A" font-size="56" font-family="Figtree, Arial, sans-serif" font-weight="500" letter-spacing="1.6">ERP DASHBOARD</text>
+  </g>
+</svg>

@@ -20,12 +20,8 @@
             <div class="grid gap-5 lg:grid-cols-[230px_minmax(0,1fr)]">
                 <aside class="hidden lg:block">
                     <div class="sticky top-24 rounded-lg border border-[#e8ecf3] bg-white p-4 shadow-[0_1px_2px_rgba(16,24,40,0.04)]">
-                        <div class="mb-5 flex items-center gap-2">
-                            <span class="inline-flex h-8 w-8 items-center justify-center rounded-md bg-indigo-600 text-xs font-bold text-white">SA</span>
-                            <div>
-                                <p class="text-sm font-semibold text-slate-900">StarAdmin</p>
-                                <p class="text-[11px] text-slate-500">ERP Suite</p>
-                            </div>
+                        <div class="mb-5 rounded-md border border-slate-100 bg-slate-50 p-2.5">
+                            <img src="{{ asset('images/synergy-logo.svg') }}" alt="Synergy ERP Dashboard" class="h-auto w-full" />
                         </div>
 
                         <nav class="space-y-5 text-[13px]">
