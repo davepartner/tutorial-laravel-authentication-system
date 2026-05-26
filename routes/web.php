@@ -5,7 +5,7 @@ use Illuminate\Support\Facades\Route;
 
 // Home page route
 Route::get('/', function () {
-    return view('welcome');
+    return view('landing');
 });
 
 // Dashboard route - requires authentication and email verification
