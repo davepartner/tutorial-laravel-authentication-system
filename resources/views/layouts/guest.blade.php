@@ -17,9 +17,9 @@
     </head>
     <body class="font-sans text-gray-900 antialiased">
         <div class="min-h-screen flex flex-col sm:justify-center items-center pt-6 sm:pt-0 bg-gray-100">
-            <div>
-                <a href="/">
-                    <x-application-logo class="h-auto w-64 sm:w-72" />
+            <div class="w-full sm:max-w-md px-6">
+                <a href="/" class="block">
+                    <x-application-logo class="mx-auto h-auto w-full" />
                 </a>
             </div>
 
